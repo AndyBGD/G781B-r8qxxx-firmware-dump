@@ -1,1 +1,1 @@
-# _Android device tree for samsung SM-G781B (r8q)_
+# _Android device tree for Samsung SM-G781B (r8q)_
