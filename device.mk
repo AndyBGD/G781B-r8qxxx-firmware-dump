@@ -72,4 +72,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/samsung/qssi/qssi-vendor.mk)
+$(call inherit-product, vendor/samsung/r8q/r8q-vendor.mk)

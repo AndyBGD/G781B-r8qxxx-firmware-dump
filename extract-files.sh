@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=qssi
+DEVICE=r8q
 VENDOR=samsung
 
 # Load extract_utils and do some sanity checks
