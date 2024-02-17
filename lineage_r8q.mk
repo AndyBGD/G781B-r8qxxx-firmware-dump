@@ -12,10 +12,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit from qssi device
-$(call inherit-product, device/samsung/qssi/device.mk)
+$(call inherit-product, device/samsung/r8q/device.mk)
 
-PRODUCT_DEVICE := qssi
-PRODUCT_NAME := lineage_qssi
+PRODUCT_DEVICE := r8q
+PRODUCT_NAME := lineage_r8q
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G781B
 PRODUCT_MANUFACTURER := samsung
